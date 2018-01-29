@@ -1,0 +1,2 @@
+To jest jakiś plik tekstowy
+//--- przykładowy tekst--//
