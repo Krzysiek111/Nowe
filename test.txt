@@ -1,2 +1,3 @@
 Jakiś plik testowy
 Krzysiek
+Edytuje nowy plik testowy
